@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+    padding:20px, 100px, 20px, 100px; 
+    margin:20px;
+  }
+  .inputNewAnimal {
+    bottom: 0;
+    right: 0;
+    width: 25%;
+    float: right;
+  }
+
+  .btn_class {
+    background-color: #4CAF50;
+    border: solid;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#btnArea {
+  bottom: 0;
+  right: 0;
+  width: 75%;
+  float: left;
+}
+
+#gifs-appear-here {
+  bottom: 0;
+  right: 0;
+  width: 75%;
+  float: left;
+}
+
+input[type=button]{
+  background-color: tomato;
+  font: 1em sans-serif;
+  color: white;
+  padding: 16px 32px;
+  margin: 4px 2px;
+}
